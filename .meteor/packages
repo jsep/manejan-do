@@ -7,7 +7,6 @@ accounts-password
 less
 reactive-var
 underscore
-standard-minifiers
 meteor-base
 mobile-experience
 mongo
@@ -24,7 +23,7 @@ check
 coffeescript
 
 alanning:roles
-cmather:handlebars-server@0.2.0
+cmather:handlebars-server
 dburles:collection-helpers
 reywood:publish-composite
 momentjs:moment
@@ -33,7 +32,6 @@ matb33:collection-hooks
 dburles:factory
 cunneen:mailgun
 iron:router
-zimme:iron-router-active
 yasinuslu:blaze-meta
 useraccounts:iron-routing
 fourseven:scss
@@ -56,3 +54,8 @@ rapito:meteor-twit
 
 tap:i18n
 meteorhacks:kadira
+standard-minifier-css
+standard-minifier-js
+zimme:active-route
+ecmascript
+rzymek:moment-locale-es
