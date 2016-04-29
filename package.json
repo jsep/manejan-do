@@ -1,0 +1,24 @@
+{
+  "name": "manejan-do",
+  "version": "1.0.0",
+  "description": "Social network to report traffic violations on Dominican Republic",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "slick-carousel": "^1.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapito/manejan-do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapito/manejan-do/issues"
+  },
+  "homepage": "https://github.com/rapito/manejan-do#readme"
+}
