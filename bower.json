@@ -16,8 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery-tokeninput": "rapito/jquery-tokeninput#callbacks",
-    "slick-carousel": "~1.5",
     "mdi": "~0.5",
     "clipboard": "~1.5"
   },
